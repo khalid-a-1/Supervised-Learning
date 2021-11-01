@@ -64,4 +64,4 @@ You may work alone on this project or you may partner with one other person of y
 - Does the paper appropriately cite sources for data and for previous work?
 
 
-# For more information, read Project3_SupervisedLearning.docx
+# For more information, read Project3_SupervisedLearning.pdf
